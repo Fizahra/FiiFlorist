@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fii\'s Florist</string>
+    <string name="about">About Me</string>
+    <string name="name_ilmiah">Nama Ilmiah : </string>
+    <string name="nama_bunga">Nama Bunga</string>
+    <string name="desc">Deskripsi</string>
+    <string name="nama">Fitri Az-Zahra Ramadhini</string>
+    <string name="email">fitriazzahra3@gmail.com</string>
+</resources>

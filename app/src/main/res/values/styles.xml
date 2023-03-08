@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="roundedImage" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">10dp</item>
+    </style>
+    <style name="SplashScreenTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/choco_pastel</item>
+        <item name="colorPrimaryVariant">@color/choco_variant</item>
+        <item name="colorOnPrimary">@color/white</item>
+    </style>
+</resources>
